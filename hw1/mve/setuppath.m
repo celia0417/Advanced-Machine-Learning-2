@@ -1,0 +1,13 @@
+path('/Users/celia/Documents/MATLAB/csdp/matlab',path);
+path('/Users/celia/Documents/MATLAB/csdp',path);
+path('/Users/celia/Documents/MATLAB/csdp/bin',path);
+path('/Users/celia/Documents/MATLAB/yalmip',path);
+path('/Users/celia/Documents/MATLAB/yalmip/extras',path);
+path('/Users/celia/Documents/MATLAB/yalmip/demos',path);
+path('/Users/celia/Documents/MATLAB/yalmip/solvers',path);
+path('/Users/celia/Documents/MATLAB/yalmip/modules',path);
+path('/Users/celia/Documents/MATLAB/yalmip/modules/parametric',path);
+path('/Users/celia/Documents/MATLAB/yalmip/modules/moment',path);
+path('/Users/celia/Documents/MATLAB/yalmip/modules/global',path);
+path('/Users/celia/Documents/MATLAB/yalmip/modules/sos',path);
+path('/Users/celia/Documents/MATLAB/yalmip/operators',path);
